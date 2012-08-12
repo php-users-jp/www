@@ -205,12 +205,12 @@ td {
 /* Header */
 
 header {
-  background-color: #171717;
+  background-color: #777BB4;
   color: #FDFDFB;
   width:170px;
   float:left;
   position:fixed;
-  border: 1px solid #000;
+  border: 1px solid #5a4498;
   -webkit-border-top-right-radius: 4px;
   -webkit-border-bottom-right-radius: 4px;
   -moz-border-radius-topright: 4px;
@@ -223,7 +223,7 @@ header {
 }
 
 p.header {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 h1.header {
